@@ -93,4 +93,4 @@ The GTD serves as an excellent resource to learn about terrorist activity throug
 [The Troubles]: https://en.wikipedia.org/wiki/The_Troubles
 [Good Friday Agreement]: https://en.wikipedia.org/wiki/Good_Friday_Agreement
 [Global Terrorism Database]: https://www.start.umd.edu/gtd/about/
-[My code]:(code.R)
+[My code]:https://github.com/gagejane/Troubles/blob/master/code.R
