@@ -52,7 +52,7 @@ The GTD also allows us to look at the specific targets of terrorist attacks. Fig
 
 ### Terrorism in 2017
 
-Table 1 display terrorist activity by organization and by region in 2017. Recently, terrorist activity is highest in Northern Ireland and groups that have been identified are those that do not agree with the accord of 1998 (e.g., Dissident Republicans, The New Irish Republican Army). In contrast, terrorist activity in Great Britain mainly relates to international relations with the Muslim community.
+Table 1 displays terrorist activity by organization and by region in 2017. Recently, terrorist activity is highest in Northern Ireland and groups that have been identified are those that do not agree with the accord of 1998 (e.g., Dissident Republicans, The New Irish Republican Army). In contrast, terrorist activity in Great Britain mainly relates to international relations with the Muslim community.
 
 Interestingly, very few organizations actually claimed responsibilty for their attacks in 2017: 13% of attackers in Northern Ireland, 14% in Great Britain, and 0 in Ireland.
 
@@ -93,4 +93,4 @@ The GTD serves as an excellent resource to learn about terrorist activity throug
 [The Troubles]: https://en.wikipedia.org/wiki/The_Troubles
 [Good Friday Agreement]: https://en.wikipedia.org/wiki/Good_Friday_Agreement
 [Global Terrorism Database]: https://www.start.umd.edu/gtd/about/
-[My code]:(ThreeGroup.R)
+[My code]:(code.R)

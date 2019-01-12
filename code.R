@@ -308,3 +308,9 @@ counts <- table(ireland_2017$Region, ireland_2017$property_str)
 counts_prop <- prop.table(table(ireland_2017$Region, ireland_2017$property_str),1)
 counts
 counts_prop
+
+###Number killed by region
+killed_agg <- aggregate(nkill ~ Region, data=ireland_2017, FUN = sum)
+wounded_agg <- aggregate(nwound ~ Region, data=ireland_2017, FUN = sum)
+killed_agg
+wounded_agg
